@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\Gamble\Server-P\bin\Debug\netcoreapp3.1\Server-P.exe
+C:\Users\Administrator\source\repos\Gamble\Server-P\bin\Debug\netcoreapp3.1\Server-P.deps.json
+C:\Users\Administrator\source\repos\Gamble\Server-P\bin\Debug\netcoreapp3.1\Server-P.runtimeconfig.json
+C:\Users\Administrator\source\repos\Gamble\Server-P\bin\Debug\netcoreapp3.1\Server-P.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Gamble\Server-P\bin\Debug\netcoreapp3.1\Server-P.dll
+C:\Users\Administrator\source\repos\Gamble\Server-P\bin\Debug\netcoreapp3.1\Server-P.pdb
+C:\Users\Administrator\source\repos\Gamble\Server-P\obj\Debug\netcoreapp3.1\Server-P.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Gamble\Server-P\obj\Debug\netcoreapp3.1\Server-P.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Gamble\Server-P\obj\Debug\netcoreapp3.1\Server-P.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Gamble\Server-P\obj\Debug\netcoreapp3.1\Server-P.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Gamble\Server-P\obj\Debug\netcoreapp3.1\Server-P.dll
+C:\Users\Administrator\source\repos\Gamble\Server-P\obj\Debug\netcoreapp3.1\Server-P.pdb
+C:\Users\Administrator\source\repos\Gamble\Server-P\obj\Debug\netcoreapp3.1\Server-P.genruntimeconfig.cache
